@@ -1,2 +1,3 @@
 # master_thesis
-The code and data_sets used  during the project
+The code of the master thesis. The data sets are too large, if you require contact me at umujahid363@gmail.com
+
